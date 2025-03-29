@@ -1,22 +1,14 @@
 # Hello! I'm Ash,
 
-I work as a _creative technologist, creative coder, & 3D generalist_.  
-I primarily work with _web technologies_.  
-_Los Angeles_ is where I call home.  
+As a __multidisciplinary creator__ with 15 years of experience, I thrive at the intersection of _design_, _development_, and _experimental art_. My work is driven by a desire to refine my craft, explore emerging technologies, and create meaningful interactive experiences.
 
-[Send me an email][email-url] if you're interested in working together;  
-I'm currently looking for a full-time position and am open to freelance / contract work.  
+With extensive experience in __designing and developing__ for web technologies, I’m always looking for ways to push the boundaries of what’s possible — whether through _intuitive user interfaces_, _immersive multimedia_, or _dynamic applications_. Each client project is an opportunity to learn and innovate, while my personal pursuits in experimental art and multimedia fuel fresh perspectives and __creative exploration__.
 
-A concise list of [selected works][portfolio-url] is browsable here on Github (with more to come soon).  
-[Instagram](https://www.instagram.com/milcktoast/), [Sketchfab](https://sketchfab.com/jpweeks), and here on GitHub are a few places I put interesting things;  
-I'm also open to connecting on [LinkedIn](https://www.linkedin.com/in/milcktoast/).  
-
-In the meantime, [go ahead and play with those tentacle-y things](https://milcktoast.com),  
-and I wish you a wonderful day!
+I’m always open to _new collaborations_ and challenges that bridge disciplines and bring unique ideas to life. Whether it’s a forward-thinking brand, an experimental digital installation, or a complex web application, I love working on projects that challenge conventions and create memorable experiences. If you have an idea you’re excited about, [__let’s connect__](mailto:milcktoast@icloud.com) and _make it happen_.
 
 # –
 
-**TLDR** – [Portfolio][portfolio-url] – [Email][email-url]  
+**Links** – [Portfolio][portfolio-url] – [Email][email-url]  
 
 
 
