@@ -21,4 +21,4 @@ and I wish you a wonderful day!
 
 
 [email-url]: mailto:milcktoast@icloud.com
-[portfolio-url]: https://github.com/milcktoast/selected-works/
+[portfolio-url]: https://milcktoast.com/projects
